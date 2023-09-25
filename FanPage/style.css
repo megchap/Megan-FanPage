@@ -1,0 +1,48 @@
+body {
+    background-color: #d2b3dc;
+  }
+  
+  h1 {
+    color: purple;
+    background-color:aliceblue;
+    margin: 20px;
+    width:auto;
+    padding:10px;
+    
+  }
+
+  h2 {
+    color:purple;
+    margin-left: 20px;
+  }
+
+  p {
+    margin-left:40px;
+    font-size: 18px;
+  }
+
+  img {
+    box-shadow: 12px 12px rgb(79, 32, 79);
+  }
+
+  .caption {
+    margin-left:60px;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+  }
+
+  .column {
+    float: left;
+    padding: 5px;
+  }
+
+  .row {
+    content: "";
+  clear: both;
+  display: table;
+  }
